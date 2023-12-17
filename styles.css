@@ -1,0 +1,109 @@
+:root {
+    --White: hsl(0, 0%, 100%);
+    --Light-gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--Light-gray);
+    height: 100vh;
+}
+
+main {
+    display: flex;
+}
+
+.container1 {
+    width: 290px;
+    height: 500px;
+    background-color: var(--White);
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+h4 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-weight: 400;
+
+}
+
+#desk {
+    display: block;
+    width: 290px;
+    height: 290px;
+    border-radius: 10px;
+}
+
+#mobile {
+    display: none;
+}
+
+.attribution {
+    position: absolute;
+    font-size: 14px;
+    text-align: center;
+    bottom: 50px;
+}
+
+.attribution a{
+    color: hsl(228, 45%, 44%);
+}
+
+@media (max-width: 420px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--Light-gray);
+        height: 100vh;
+    }
+    
+    main {
+        display: flex;
+    }
+
+    .container1{
+        width: 200px;
+        height: 400px;
+        background-color: var(--White);
+        padding: 10px;
+        border-radius: 10px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #mobile {
+        display: block;
+        width: 100%;
+        height: 50%;
+        border-radius: 10px;
+    }
+
+    #desk {
+        display: none;
+    }
+
+    .attribution {
+        position: absolute;
+        font-size: 14px;
+        text-align: center;
+        bottom: 100px;
+    }
+    
+    .attribution a{
+        color: hsl(228, 45%, 44%);
+    }
+}
