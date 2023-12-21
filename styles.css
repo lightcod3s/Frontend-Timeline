@@ -68,6 +68,9 @@ p {
     color: hsl(228, 45%, 44%);
 }
 
+
+/* this is done to capture more 
+gadgets screen */
 @media (max-width: 420px) {
     body {
         display: flex;
