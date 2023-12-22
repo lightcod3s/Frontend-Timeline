@@ -34,8 +34,8 @@ Overall this project gave me valuable practice structuring, styling and prototyp
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/lightcod3s/Frontend-Timeline.git)
+- Live Site URL: (https://frontend-timeline.vercel.app/)
 
 ## My process
 
