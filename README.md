@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -15,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -29,7 +28,7 @@ Overall this project gave me valuable practice structuring, styling and prototyp
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./my_design/Screenshot%202024-01-01%20at%2002-14-48%20Frontend%20Mentor%20QR%20code%20component.png)
 
 
 ### Links
@@ -37,7 +36,6 @@ Overall this project gave me valuable practice structuring, styling and prototyp
 - Solution URL: (https://github.com/lightcod3s/Frontend-Timeline.git)
 - Live Site URL: (https://frontend-timeline.vercel.app/)
 
-## My process
 
 ### Built with
 
@@ -72,11 +70,10 @@ Some areas I would continue to focus on include Flex box and CSS custom properti
 
 ## Author
 
-- Website - [ Marvellous ](https://www.your-site.com)
+- Website - [ Marvellous ]
 - Frontend Mentor - [@lightcod3s](https://www.frontendmentor.io/profile/lightcod3s)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
 ## Acknowledgments
 
-I want to acknowledge @Timmycodes for his  help during the challenge.
+I want to acknowledge @Timmy_john for his  help during the challenge.
