@@ -28,7 +28,7 @@ Overall this project gave me valuable practice structuring, styling and prototyp
 
 ### Screenshot
 
-![](./my_design/Screenshot%202024-01-01%20at%2002-14-48%20Frontend%20Mentor%20QR%20code%20component.png)
+![My own design](./my_design/Screenshot%202024-01-01%20at%2002-14-48%20Frontend%20Mentor%20QR%20code%20component.png)
 
 
 ### Links
@@ -42,7 +42,6 @@ Overall this project gave me valuable practice structuring, styling and prototyp
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workf
 
 
